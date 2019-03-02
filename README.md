@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This is a QT gui application for [fastman92processor] (https://gtaforums.com/topic/857375-fastman92-processor/) writtn in C++.
+This is a QT gui application for [fastman92processor](https://gtaforums.com/topic/857375-fastman92-processor/) writtn in C++.
 
 
 ## Screenshot
